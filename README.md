@@ -1,4 +1,4 @@
-# thousandTrading
+# 量化交易策略
 Quantized transaction strategy open source
 
 目录说明：
@@ -8,10 +8,6 @@ Quantized transaction strategy open source
 [2]  the_king_of_banzhuan        搬砖之王策略  
 
 [3]  trend_strategy              趋势策略框架
-
-微信公众号《千千的量化世界》，致力于提供免费的量化交易策略源码和讲解课程。
-
-关注微信公众号或哔哩哔哩可以查看最新量化策略讲解视频，欢迎量化爱好者进入我们的讨论群。
 
 进群请联系管理员微信robin201107
 
