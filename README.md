@@ -9,7 +9,7 @@ Quantized transaction strategy open source
 
 [3]  trend_strategy              趋势策略框架
 
-进群请联系管理员微信robin201107
+合作请联系微信：robin201107
 
 开源不易，适当赞赏可以提升千千的更新动力
 
