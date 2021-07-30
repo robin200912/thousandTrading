@@ -11,7 +11,7 @@ Quantized transaction strategy open source
 
 合作请联系微信：robin201107
 
-开源不易，适当赞赏可以提升千千的更新动力
+开源不易，适当赞赏可以提升本人持续更新的动力
 
 ![image](https://user-images.githubusercontent.com/34182390/127721579-a80cee59-69c8-4f7f-aca6-7ac5095354bc.png)
 
